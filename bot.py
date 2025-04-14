@@ -32,7 +32,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
         [
             InlineKeyboardButton("Button 1 for my love Tejashvi", url="https://t.me/Legend_of_multiverse"),
-            InlineKeyboardButton("Button 2 for my love Tejashvi", url="https://t.me/AdityaServer"),
+            InlineKeyboardButton("Button 2 for my love Tejashvi", url="https://t.me/saket_tejashvi"),
             InlineKeyboardButton("Button 3 for my love Tejashvi", callback_data="button_3")
         ],
         [
